@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651563542908",
+    "project_id": "calculmobil-fd033",
+    "storage_bucket": "calculmobil-fd033.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651563542908:android:44bbdb8069a4723c871cf9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651563542908-sbdicsfvahfgthgjd1gr9aoj83dfv64o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8kT6ekLqIThFyPd2-jozVxMA4EQ_ug0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651563542908-sbdicsfvahfgthgjd1gr9aoj83dfv64o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
